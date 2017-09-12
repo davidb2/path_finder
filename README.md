@@ -3,7 +3,7 @@ Uses genetic evolution to find a path.
 
 ## Demo
 
-<img src="https://davidbrewster.xyz/path_finder/path_finder.gif" width=600 height=600) />
+<img href="https://davidbrewster.xyz/path_finder/path_finder.gif" width=600 height=600) />
 
 In the example above, the computer is attempting to find a path to the bottom right pixel of the screen.
 
