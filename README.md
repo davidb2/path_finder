@@ -1,11 +1,9 @@
 # Path Finder
 Uses genetic evolution to find a path.
 
-## Demo
+## [Demo](https://davidbrewster.xyz/path_finder/path_finder.gif)
 
-[//]: <img src="https://davidbrewster.xyz/path_finder/o_path_finder.gif" width=600 height=600 />
-
-In the example above, the computer is attempting to find a path to the bottom right pixel of the screen.
+In the demo, the computer is attempting to find a path to the bottom right pixel of the screen.
 
 ### Some Info
   * Population Size: `200`
